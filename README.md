@@ -1,7 +1,7 @@
 # Battle cats Status Editor
 unitXXX.csvを編集します。
 Edit unitXXX.csv.
-# Setting.json
+## Setting.json
 ここで初期pathを指定することができます。(しなくてもOK)
 path2は保存したときに指定したところへファイルをコピーします。(しなくてもOK)
 
